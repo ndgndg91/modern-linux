@@ -1,0 +1,33 @@
+[
+  {
+    "_id": "612297a64a057a3fa3a56fcf",
+    "nick_name": "giri",
+    "age": 32,
+    "sex": "male",
+    "programming_languages": [
+      "rust",
+      "golang",
+      "java",
+      "kotlin"
+    ],
+    "frameworks": [
+      "spring boot",
+      "echo",
+      "jin",
+      "gorilla"
+    ]
+  },
+  {
+    "_id": "612297a64a057a3fa3a56fd0",
+    "nick_name": "jack",
+    "age": 34,
+    "sex": "male",
+    "programming_languages": [
+      "java",
+      "kotlin"
+    ],
+    "frameworks": [
+      "spring boot"
+    ]
+  }
+]
