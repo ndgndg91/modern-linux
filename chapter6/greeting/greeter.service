@@ -1,0 +1,8 @@
+[Unit]
+# 서비스의 설명. systemctl status 를 사용할 때 표시
+Description=My Greeting Servie
+
+[Service]
+Type=oneshot
+# 이 앱의 위치
+ExecStart=/Users/giri/IdeaProjects/modern-linux/chapter6/greeting/greeter.sh
